@@ -1,5 +1,5 @@
 class Person
-  def bark
+  def talk
     puts "Hello World!"
   end
   def sit
